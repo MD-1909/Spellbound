@@ -1,3 +1,5 @@
+<a href="https://imgur.com/GJC9aVs"><img src="https://i.imgur.com/GJC9aVs.jpg" title="source: imgur.com" /></a>
+
 These are the script files for the Visual Novel 'Spellbound' built on Ren'Py.
 The game can be downloaded for Windows, Linux, Mac and Android from the following links:
 
