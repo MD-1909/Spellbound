@@ -3,10 +3,10 @@
 These are the script files for the Visual Novel 'Spellbound' built on Ren'Py.
 The game can be downloaded for Windows, Linux, Mac and Android from the following links:
 
-*Mega-
+*Mega-*
 http://bit.ly/Spellbound_Mega
 
-*Google Drive-
+*Google Drive-*
 http://bit.ly/Spellbound_Drive
 
 The game files will be archived to prevent meddling.
